@@ -1,5 +1,5 @@
 # Movie App
-> This movie site can search movies, add to watchlist and view movie detail.This site is developed using ReactJS.
+> This movie site can search movies, add to watchlist and view movie detail.This site is developed using ReactJS and MovieDB API.
 
 
 ## Home
